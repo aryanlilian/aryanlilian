@@ -1,6 +1,6 @@
-### Hi there I'm Bularu Lilian aka - A R Y A N 
+# Hi there I'm Bularu Lilian aka - A R Y A N 
 
-### I'm an active Junior Programmer  
+## I'm an active Junior Programmer  
 
 - 🔭 I’m currently working on - [Personal Website](https://github.com/aryanlilian/Electronic-Spendings-Tracker.git)
 - 🌱 I’m currently learning - Web Development (Full Stack)

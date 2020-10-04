@@ -2,6 +2,7 @@
 
 ## I'm an active Junior Programmer  
 
+- I'm a Software Engineer at SC Selir
 - 🔭 I’m currently working on - [Personal Website](https://github.com/aryanlilian/Electronic-Spendings-Tracker.git)
 - 🌱 I’m currently learning - Web Development (Full Stack)
 - 🤔 I’m looking for opportunities to work as a Junior Web Developer 

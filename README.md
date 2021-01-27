@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Hi there I'm Bularu Lilian aka - A R Y A N 
 
-## I'm an active Junior Web Developer  
+## I'm an active Web Developer  
 
 - 🖥 I'm a Web Developer at SC Selir
 - 🔭 I’m currently working on a - [Personal Website](https://github.com/aryanlilian/EcoMon.git)

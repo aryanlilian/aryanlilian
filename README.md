@@ -12,4 +12,4 @@
 - Python, C/C++, JavaScript, Java, PHP, SQL,  HTML/CSS 
 
 ## Skills
-- Web Development (Full Stack), Algorithsm & Data Structures, Object Oriented Programming
+- Web Development (Full Stack), Algorithms & Data Structures, Object-Oriented-Programming

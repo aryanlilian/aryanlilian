@@ -1,4 +1,4 @@
-# 🙋🏻‍♂️ Hi there I'm Bularu Lilian aka - A R Y A N 
+# 🙋🏻‍♂️ Bularu Lilian
 
 ## I'm an active Software Engineer  
 

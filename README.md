@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like Science and Art at the same time 
 
 ## Programming Languages
-- Python, C/C++, JavaScript, Java, PHP, SQL,  HTML/CSS 
+- Python, JavaScript, Java, C/C++ PHP, SQL,  HTML/CSS 
 
 ## Skills
 - Web Development (Full Stack), Algorithms & Data Structures, Object-Oriented-Programming
